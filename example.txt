@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains several lines of text.
+
+This is the new content to be appended to the file.
